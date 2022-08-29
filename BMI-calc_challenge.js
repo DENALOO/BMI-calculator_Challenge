@@ -1,3 +1,6 @@
+//Create a function that calculates BMI based on the inputs given.
+
+
 //Create your function below this line.
 
 function bmiCalculator(weight,height){
